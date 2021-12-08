@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeekSilver
-- 👀 I’m interested in Javascript (React & Node) and Android (using Java) development
-- 🌱 I’m currently learning android 
-- 💞️ I’m looking to collaborate on javascript and java projects
+- 👀 A Full Stack Software Engineer with vast experience in Javascript (React & Node) and Laravel (php)
+- 🌱 I’m also a Machine Learning expert and currently learning Android (using Kotlin & Java) on the side.
+- 💞️ I’m looking to collaborate on impactful projects
 - 📫 Reach me via my [linkedin](https://www.linkedin.com/in/eric-kioko-a19746153/)
 
 <!---
